@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabuxt/Video-Generator/issues"
   },
-  "homepage": "https://github.com/gabuxt/Video-Generator#readme"
+  "homepage": "https://github.com/gabuxt/Video-Generator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
